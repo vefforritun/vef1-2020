@@ -1,4 +1,4 @@
-# Fyrirlestur 1, 27. ágúst 2018
+# Fyrirlestur 1, 24. ágúst 2020
 
 [Fyrirlestur 1.1: Kynning](01.1.kynning.md), [vídeó](https://youtu.be/KNO1SSAEql4)
 

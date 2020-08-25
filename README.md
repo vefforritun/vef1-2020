@@ -36,7 +36,7 @@ Kennslubækur:
 
 ## Fyrirlestrar
 
-* [Fyrirlestur 1, 27. ágúst 2018](fyrirlestrar/01/)
+* [Fyrirlestur 1, 24. ágúst 2020](fyrirlestrar/01/)
   - Kynning, inngangur, HTML #1
 
 ## Verkefni
