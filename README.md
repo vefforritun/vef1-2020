@@ -10,11 +10,14 @@ Sjá Uglu/Canvas.
 
 ## Kennsluáætlun
 
+ATH Það á eftir að aðlaga kennsluáætlun vegna rasks.
+
 | Vika | Mánudagur     | Viðfangsefni                                                | Verkefni              | Skil                 |
 |------|---------------|-------------------------------------------------------------|-----------------------|----------------------|
 |  1   | 24. ágúst     | Kynning, vefurinn og vefforritun, HTML                      | HTML #1               |                      |
 |  2   | 31. ágúst     | Element, merkingarfræði, aðgengi og SEO                     | HTML #2               | HTML #1              |
-|  3   | 7. september  | CSS, syntax, specificity og cascade, box model              | CSS #1                | HTML #2              |
+|  3   | 7. september  | **Fyrirlestur féll niður**                                                            |               |               |
+|  4   | 14. september | CSS, syntax, specificity og cascade, box model              | CSS #1                | HTML #2               |
 |  4   | 14. september | Visual formatting, letur&texti, litir&bakgrunnar, variables | CSS #2                | CSS #1               |
 |  5   | 21. september | Flexbox, CSS í stærri verkefnum. Git, GitHub                | CSS #3                | CSS #2               |
 |  6   | 28. september | Skalanlegir vefir, kvikun, hönnun                           | CSS #4, Hópverkefni 1 | CSS #3               |
@@ -45,14 +48,14 @@ Kennslubækur:
     + [Kafli 4: Aðgengi](https://bok.vefforritun.is/04.adgengi.html)
     + [Kafli 5: Leitarvélabestun](https://bok.vefforritun.is/05.seo.html)
   - [Resilient Web Design, chapter 1: Foundations](https://resilientwebdesign.com/chapter1/)
-* Vika #3
+* Vika #4
   - [Bókin um vefforritun](https://bok.vefforritun.is/)
     + [Kafli 6: CSS](https://bok.vefforritun.is/06.css.html)
     + [Kafli 7: CSS málfræði](https://bok.vefforritun.is/07.css-malfraedi.html)
     + [Kafli 8: Box model](https://bok.vefforritun.is/08.css-box-model.html)
     + [Kafli 9: Sértækni & flóðið](https://bok.vefforritun.is/09.css-specifity-cascade.html)
     + [Kafli 10: Að skrifa CSS](https://bok.vefforritun.is/10.css-best-practices.html)
-  - [Resilient Web Design, chapter 1: Foundations](https://resilientwebdesign.com/chapter1/)
+  - [Resilient Web Design, chapter 2: Materials](https://resilientwebdesign.com/chapter2/)
 
 ## Fyrirlestrar
 
