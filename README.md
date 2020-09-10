@@ -2,6 +2,8 @@
 
 Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun 1 kenndan við HÍ haustið 2020.
 
+[Alla fyrirlestra má nálgast á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozyLtKdHEFlRz8mIYVSmOwy8).
+
 ## Dæmatímar
 
 Sjá Uglu/Canvas.
@@ -43,6 +45,14 @@ Kennslubækur:
     + [Kafli 4: Aðgengi](https://bok.vefforritun.is/04.adgengi.html)
     + [Kafli 5: Leitarvélabestun](https://bok.vefforritun.is/05.seo.html)
   - [Resilient Web Design, chapter 1: Foundations](https://resilientwebdesign.com/chapter1/)
+* Vika #3
+  - [Bókin um vefforritun](https://bok.vefforritun.is/)
+    + [Kafli 6: CSS](https://bok.vefforritun.is/06.css.html)
+    + [Kafli 7: CSS málfræði](https://bok.vefforritun.is/07.css-malfraedi.html)
+    + [Kafli 8: Box model](https://bok.vefforritun.is/08.css-box-model.html)
+    + [Kafli 9: Sértækni & flóðið](https://bok.vefforritun.is/09.css-specifity-cascade.html)
+    + [Kafli 10: Að skrifa CSS](https://bok.vefforritun.is/10.css-best-practices.html)
+  - [Resilient Web Design, chapter 1: Foundations](https://resilientwebdesign.com/chapter1/)
 
 ## Fyrirlestrar
 
@@ -54,8 +64,9 @@ Kennslubækur:
 ## Verkefni
 
 * [Verkefni 1 (HTML #1)](https://github.com/vefforritun/vef1-2020-v1), sett fyrir 27. ágúst, skilist 7. september
-* [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2020-v2), sett fyrir 31. ágúst, skilist 8. september
-* Verkefni 3 (CSS #1), sett fyrir 7. september, skilist 15. september
+* [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2020-v2), sett fyrir 31. ágúst, skilist 11. september
+  * [Kynning í fyrirlestri](https://youtu.be/xPaU1PgUsjk)
+* Verkefni 3 (CSS #1), sett fyrir 14. september, skilist 22. september
 * Verkefni 4 (CSS #2), sett fyrir 14. september, skilist 22. september
 * Verkefni 5 (CSS #3), sett fyrir 21. september, skilist 29. september
 * Verkefni 6 (CSS #4), sett fyrir 28. september, skilist 13. september
