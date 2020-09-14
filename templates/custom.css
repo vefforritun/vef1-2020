@@ -7,7 +7,7 @@
 
 .reveal section { text-align: left; }
 .reveal section p { line-height: 1.5em; }
-.reveal section ul { margin-bottom: 1em; margin-left: -1em; }
+.reveal section ul, .reveal section ol { margin-bottom: 1em; margin-left: -1em; }
 .reveal section ul ul { margin-left: 1em; }
 .reveal section li { margin-bottom: 0.75em; }
 .reveal section li ul { margin-top: 0.85em; }

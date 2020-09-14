@@ -1,10 +1,10 @@
 # Fyrirlestur 2, 31. ágúst 2020
 
-[Fyrirlestur 2.1: HTML #2](02.1.html.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 2.1: HTML #2](02.1.html.md), [vídeó](https://youtu.be/mkZsjZ1FYgM)
 
-[Fyrirlestur 2.2: HTML #3](02.2.html.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 2.2: HTML #3](02.2.html.md), [vídeó](https://youtu.be/-kSiJSLBgKs)
 
-[Fyrirlestur 2.3: Aðgengi & SEO](02.3.adgengi-seo.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 2.3: Aðgengi & SEO](02.3.adgengi-seo.md), [vídeó](https://youtu.be/79mA_x610eQ)
 
 ## Dæmi
 
