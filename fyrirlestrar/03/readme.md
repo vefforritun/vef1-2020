@@ -1,12 +1,12 @@
 # Fyrirlestur 3, 10. september 2020
 
-[Fyrirlestur 3.1: CSS & Málfræði](03.1.css.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 3.1: CSS & Málfræði](03.1.css.md), [vídeó](https://youtu.be/jU7dL2hwoJg)
 
-[Fyrirlestur 3.2: CSS Box model](03.2.box-model.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 3.2: CSS Box model](03.2.box-model.md), [vídeó](https://youtu.be/1OZ7jxJ6XKw)
 
-[Fyrirlestur 3.3: CSS Cascade](03.3.cascade.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 3.3: CSS Cascade](03.3.cascade.md), [vídeó](https://youtu.be/7nutVh18hbk)
 
-[Fyrirlestur 3.4: Visual Formatting módel](03.3.visual-formatting.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 3.4: Visual Formatting módel](03.4.visual-formatting.md), [vídeó](https://youtu.be/WIusKOyW5G8)
 
 ## Dæmi
 

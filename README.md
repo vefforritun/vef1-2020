@@ -61,7 +61,7 @@ Kennslubækur:
   - Kynning, inngangur, HTML #1
 * [Fyrirlestur 2, 31. ágúst 2020](fyrirlestrar/02/)
   - Element, merkingarfræði, aðgengi og SEO
-* [Fyrirlestur 2, 14. september 2020](fyrirlestrar/03/)
+* [Fyrirlestur 3, 14. september 2020](fyrirlestrar/03/)
   - CSS & Málfræði, Box model, Cascde, Visual Formatting módel
 
 ## Verkefni
@@ -70,6 +70,7 @@ Kennslubækur:
 * [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2020-v2), sett fyrir 31. ágúst, skilist 11. september
   * [Kynning í fyrirlestri](https://youtu.be/xPaU1PgUsjk)
 * [Verkefni 3 (CSS #1)](https://github.com/vefforritun/vef1-2020-v3), sett fyrir 14. september, skilist 22. september
+  * [Kynning í fyrirlestri](https://youtu.be/-Pd805S_xzg)
 * Verkefni 4 (CSS #2), sett fyrir 21. september, skilist 29. september
 * Verkefni 5 (CSS #3), sett fyrir 28. september, skilist 13. september
 * Verkefni 6 (CSS #4), sett fyrir 12. október, skilist 20. október
