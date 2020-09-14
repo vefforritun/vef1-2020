@@ -61,6 +61,8 @@ Kennslubækur:
   - Kynning, inngangur, HTML #1
 * [Fyrirlestur 2, 31. ágúst 2020](fyrirlestrar/02/)
   - Element, merkingarfræði, aðgengi og SEO
+* [Fyrirlestur 2, 14. september 2020](fyrirlestrar/03/)
+  - CSS & Málfræði, Box model, Cascde, Visual Formatting módel
 
 ## Verkefni
 

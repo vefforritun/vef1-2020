@@ -1,10 +1,12 @@
 # Fyrirlestur 3, 10. september 2020
 
-[Fyrirlestur 3.1: CSS #1 – Málfræði](03.1.css.md), [vídeó](https://youtu.be/rBFdRVWhiis)
+[Fyrirlestur 3.1: CSS & Málfræði](03.1.css.md), [vídeó](https://youtu.be/)
 
-[Fyrirlestur 3.2: CSS #1 – Cascade](03.2.css.md), [vídeó](https://youtu.be/oAghhzsOr2g)
+[Fyrirlestur 3.2: CSS Box model](03.2.box-model.md), [vídeó](https://youtu.be/)
 
-[Fyrirlestur 3.3: CSS #1 – Box model](03.3.css.md), [vídeó](https://youtu.be/cg__fxt8Cfw)
+[Fyrirlestur 3.3: CSS Cascade](03.3.cascade.md), [vídeó](https://youtu.be/)
+
+[Fyrirlestur 3.4: Visual Formatting módel](03.3.visual-formatting.md), [vídeó](https://youtu.be/)
 
 ## Dæmi
 
@@ -34,4 +36,9 @@
 ### Visual formatting
 
 * [`display` eigindið](daemi/visual-formatting/01.display.html)
-
+* [overflow dæmi](daemi/visual-formatting/02.overflow.html)
+* [Dæmi um staðsetningar #1](daemi/visual-formatting/03.position.html)
+* [Dæmi um sticky](daemi/visual-formatting/04.sticky.html)
+* [Dæmi um staðsetningar #2](daemi/visual-formatting/05.position2.html)
+* [Dæmi um vandræði með z-index](daemi/visual-formatting/06.zindex-hover.html)
+* [Dæmi um float](daemi/visual-formatting/07.float.html)
