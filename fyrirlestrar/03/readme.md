@@ -10,6 +10,8 @@
 
 ## Dæmi
 
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2020/fyrirlestrar/03/)
+
 * [HTML & CSS](daemi/01.html-css.html)
   * Tenging HTML & CSS, ekki gott dæmi
 * [HTML & CSS 2](daemi/02.html-css.html)

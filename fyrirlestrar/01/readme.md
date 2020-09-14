@@ -8,6 +8,8 @@
 
 ## Dæmi
 
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2020/fyrirlestrar/01/)
+
 * [Minnsta HTML skjalið](daemi/minnsta.html)
 
 ## Ítarefni

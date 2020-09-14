@@ -8,6 +8,8 @@
 
 ## Dæmi
 
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2020/fyrirlestrar/02/)
+
 * [Gilt XHTML](daemi/valid.xhtml)
 * [Ógilt XHTML](daemi/invalid.xhtml)
   * Vantar að loka einu `<p>` og allt fer í rugl!
