@@ -6,3 +6,6 @@
   - Element, merkingarfræði, aðgengi og SEO
 * [Fyrirlestur 3, 14. september 2020](03/)
   - CSS & Málfræði, Box model, Cascde, Visual Formatting módel
+* [Fyrirlestur 4, 14. september 2020](04/)
+  - CSS: letur & litir, stuðningur, flexbox
+  
