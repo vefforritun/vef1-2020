@@ -1,10 +1,10 @@
 # Fyrirlestur 4, 17. september 2018
 
-[Fyrirlestur 4.1: CSS – Letur & litir](04.1.letur-litir.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 4.1: CSS – Letur & litir](04.1.letur-litir.md), [vídeó](https://youtu.be/kulQ9HXSOt4)
 
-[Fyrirlestur 4.2: CSS – Stuðningur við CSS](04.2.css-studningur.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 4.2: CSS Stuðningur](04.2.css-studningur.md), [vídeó](https://youtu.be/BVxleINgQA4)
 
-[Fyrirlestur 4.3: CSS – Flexbox](04.3.flexbox.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 4.3: Flexbox](04.3.flexbox.md), [vídeó](https://youtu.be/Dp2WG5GmNbQ)
 
 ## Dæmi
 
