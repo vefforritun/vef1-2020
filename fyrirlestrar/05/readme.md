@@ -1,12 +1,12 @@
 # Fyrirlestur 5, 28. september 2020
 
-[Fyrirlestur 5.1: Skalanleg vefhönnun](05.1.responsive.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 5.1: Skalanleg vefhönnun](05.1.responsive.md), [vídeó](https://youtu.be/uO7ch-J6PkI)
 
-[Fyrirlestur 5.2: Kvikun](05.2.animation.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 5.2: Kvikun](05.2.animation.md), [vídeó](https://youtu.be/RzFx7ucXN0o)
 
-[Fyrirlestur 5.3: Hönnun](05.3.design.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 5.3: Hönnun](05.3.design.md), [vídeó](https://youtu.be/TtGQkUcDf08)
 
-[Fyrirlestur 5.4: CSS í stærri verkefnum](05.4.css-verkefni.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 5.4: CSS í stærri verkefnum](05.4.css-verkefni.md), [vídeó](https://youtu.be/ZVaLyQmOmOM)
 
 ## Dæmi
 

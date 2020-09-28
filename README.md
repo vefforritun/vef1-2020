@@ -127,7 +127,7 @@ Kennslubækur:
 * [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2020-v4), sett fyrir 21. september, skilist 29. september
   * [Kynning í fyrirlestri](https://youtu.be/BEtrv2hqk7k)
 * [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2020-v4), sett fyrir 28. september, skilist 5. október
-  * [Kynning í fyrirlestri](https://youtu.be/)
+  * [Kynning í fyrirlestri](https://youtu.be/4RAqE4APX-4)
 * Verkefni 6 (CSS #4), sett fyrir 6. október, skilist 13. október
 * Verkefni 7 (JS #1), sett fyrir 19. október, skilist 27. október
 * Verkefni 8 (JS #2), sett fyrir 26. október, skilist 3. nóvember
