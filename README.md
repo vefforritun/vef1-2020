@@ -63,7 +63,7 @@ Kennslubækur:
     + [Kafli 14: Flexbox](https://bok.vefforritun.is/14.css-flexbox.html)
 * Vika #6
   - [Bókin um vefforritun](https://bok.vefforritun.is/)
-    + [Kafli 15: Skalanlegir vefir](https://bok.vefforritun.is/15.css-skalanlegir.html)
+    + [Kafli 15: Skalanlegir vefir](https://bok.vefforritun.is/15.skalanlegir.html)
     + [Kafli 16: Kvikun](https://bok.vefforritun.is/16.kvikun.html)
     + [Kafli 17: Hönnun](https://bok.vefforritun.is/17.honnun.html)
     + [Kafli 18: CSS í stærri verkefnum](https://bok.vefforritun.is/18.css-verkefni.html)
