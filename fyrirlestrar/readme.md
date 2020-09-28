@@ -8,4 +8,5 @@
   - CSS & Málfræði, Box model, Cascde, Visual Formatting módel
 * [Fyrirlestur 4, 14. september 2020](04/)
   - CSS: letur & litir, stuðningur, flexbox
-  
+* [Fyrirlestur 5, 14. september 2020](05/)
+  - Skalanleg vefhönnun, kvikun, hönnun og CSS í stærri verkefnum
