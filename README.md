@@ -126,9 +126,9 @@ Kennslubækur:
   * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v3-synilausn)
 * [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2020-v4), sett fyrir 21. september, skilist 29. september
   * [Kynning í fyrirlestri](https://youtu.be/BEtrv2hqk7k)
-* [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2020-v4), sett fyrir 28. september, skilist 13. september
+* [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2020-v4), sett fyrir 28. september, skilist 5. október
   * [Kynning í fyrirlestri](https://youtu.be/)
-* Verkefni 6 (CSS #4), sett fyrir 12. október, skilist 20. október
+* Verkefni 6 (CSS #4), sett fyrir 6. október, skilist 13. október
 * Verkefni 7 (JS #1), sett fyrir 19. október, skilist 27. október
 * Verkefni 8 (JS #2), sett fyrir 26. október, skilist 3. nóvember
 * Verkefni 9 (JS #3), sett fyrir 2. nóvember, skilist 10. nóvember
