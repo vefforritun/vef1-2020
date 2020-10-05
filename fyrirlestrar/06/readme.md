@@ -1,0 +1,23 @@
+# Fyrirlestur 6, 5. október 2020
+
+[Fyrirlestur 6.1: Git #1](06.1.git.md), [vídeó](https://youtu.be/)
+
+[Fyrirlestur 6.2: Node.js og NPM](06.2.npm.md), [vídeó](https://youtu.be/)
+
+[Fyrirlestur 6.3: Sass & stylelint](06.3.sass-stylelint.md), [vídeó](https://youtu.be/)
+
+## Dæmi
+
+* [browser-sync](daemi/browser-sync/)
+* [node-sass](daemi/node-sass/)
+* [node-sass-browser-sync](daemi/node-sass-browser-sync/)
+* [stylelint](daemi/stylelint)
+
+## Ítarefni
+
+* [GitHub Guides](https://guides.github.com/)
+  - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+  - [Getting your project on GitHub](https://guides.github.com/introduction/getting-your-project-on-github/)
+  - [Fork a repo](https://help.github.com/articles/fork-a-repo/)
+* [GitHub Desktop](https://desktop.github.com/)
+  - GUI tól til að vinna með repos á GitHub

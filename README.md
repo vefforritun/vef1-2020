@@ -127,10 +127,10 @@ Kennslubækur:
 * [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2020-v4), sett fyrir 21. september, skilist 29. september
   * [Kynning í fyrirlestri](https://youtu.be/BEtrv2hqk7k)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v4-synilausn)
-* [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2020-v4), sett fyrir 28. september, skilist 5. október
+* [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2020-v5), sett fyrir 28. september, skilist 5. október
   * [Kynning í fyrirlestri](https://youtu.be/4RAqE4APX-4)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v5-synilausn)
-* Verkefni 6 (CSS #4), sett fyrir 6. október, skilist 13. október
+* [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2020-v6), sett fyrir 6. október, skilist 13. október
 * Verkefni 7 (JS #1), sett fyrir 19. október, skilist 27. október
 * Verkefni 8 (JS #2), sett fyrir 26. október, skilist 3. nóvember
 * Verkefni 9 (JS #3), sett fyrir 2. nóvember, skilist 10. nóvember
@@ -138,7 +138,7 @@ Kennslubækur:
 
 ## Hópverkefni
 
-* Hópverkefni 1, sett fyrir 5. október, skilist 27. október
+* [Hópverkefni 1](https://github.com/vefforritun/vef1-2020-h1), sett fyrir 5. október, skilist 30. október
 * Hópverkefni 2, sett fyrir 26. október, skilist 22. nóvember
 
 ## Lokapróf
