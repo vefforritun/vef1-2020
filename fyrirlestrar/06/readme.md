@@ -1,6 +1,6 @@
 # Fyrirlestur 6, 5. október 2020
 
-[Fyrirlestur 6.1: Git #1](06.1.git.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.1: Git](06.1.git.md), [vídeó](https://youtu.be/)
 
 [Fyrirlestur 6.2: Node.js og NPM](06.2.npm.md), [vídeó](https://youtu.be/)
 
