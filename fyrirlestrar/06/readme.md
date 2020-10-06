@@ -1,10 +1,10 @@
 # Fyrirlestur 6, 5. október 2020
 
-[Fyrirlestur 6.1: Git](06.1.git.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.1: Git](06.1.git.md), [vídeó](https://youtu.be/0TOnybIUYxE)
 
-[Fyrirlestur 6.2: Node.js og NPM](06.2.npm.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.2: Node.js og NPM](06.2.npm.md), [vídeó](https://youtu.be/Jba59WrobtU)
 
-[Fyrirlestur 6.3: Sass & stylelint](06.3.sass-stylelint.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.3: Sass & stylelint](06.3.sass-stylelint.md), [vídeó](https://youtu.be/hW-55zKWTI0)
 
 ## Dæmi
 
