@@ -102,6 +102,10 @@ Kennslubækur:
 * Vika #12
   - [Eloquent JavaScript, kafli 17: Drawing on Canvas](https://eloquentjavascript.net/17_canvas.html)
 
+## Hugtakalisti
+
+[Listi yfir flest þau hugtök sem koma fyrir í námsefninu má nálgast hér](concepts.md).
+
 ## Fyrirlestrar
 
 * [Fyrirlestur 1, 24. ágúst 2020](fyrirlestrar/01/)

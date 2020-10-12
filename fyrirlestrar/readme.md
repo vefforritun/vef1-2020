@@ -12,3 +12,5 @@
   - Skalanleg vefhönnun, kvikun, hönnun og CSS í stærri verkefnum
 * [Fyrirlestur 6, 5. október 2020](06/)
   - Git, node.js, npm & tól: browser-sync, sass, stylelint
+* [Fyrirlestur 7, 12. október 2020](07/)
+  - JavaScript gildi, týpur og virkjar, forrit, föll. Array og objects
