@@ -1,4 +1,4 @@
-# Vefforritun 1, 2020!
+# Vefforritun 1, 2020
 
 Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun 1 kenndan við HÍ haustið 2020.
 
@@ -137,6 +137,7 @@ Kennslubækur:
   * [Kynning í fyrirlestri](https://youtu.be/4RAqE4APX-4)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v5-synilausn)
 * [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2020-v6), sett fyrir 6. október, skilist 13. október
+  * [Kynning í fyrirlestri](https://youtu.be/ZMVY0pdDCG4)
 * Verkefni 7 (JS #1), sett fyrir 19. október, skilist 27. október
 * Verkefni 8 (JS #2), sett fyrir 26. október, skilist 3. nóvember
 * Verkefni 9 (JS #3), sett fyrir 2. nóvember, skilist 10. nóvember
@@ -145,6 +146,7 @@ Kennslubækur:
 ## Hópverkefni
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef1-2020-h1), sett fyrir 5. október, skilist 30. október
+  * [Kynning í fyrirlestri](https://youtu.be/xx_f98Dgx34)
 * Hópverkefni 2, sett fyrir 26. október, skilist 22. nóvember
 
 ## Lokapróf
