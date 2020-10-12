@@ -1,12 +1,12 @@
 # Fyrirlestur 7, 12. október 2020
 
-[Fyrirlestur 8.1: JavaScript gildi, týpur og virkjar](07.1.javascript.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 7.1: JavaScript gildi, týpur og virkjar](07.1.javascript.md), [vídeó](https://youtu.be/V8QemIYqGRo)
 
-[Fyrirlestur 8.2: JavaScript forrit](07.2.programs.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 7.2: JavaScript forrit](07.2.programs.md), [vídeó](https://youtu.be/vUPe7oSD6xw)
 
-[Fyrirlestur 8.3: JavaScript föll](07.3.functions.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 7.3: JavaScript föll](07.3.functions.md), [vídeó](https://youtu.be/C60cnlwZLEs)
 
-[Fyrirlestur 8.4: Array og objects](07.4.array.objects.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 7.4: Array og objects](07.4.array.objects.md), [vídeó](https://youtu.be/nY9H5cs3MNI)
 
 ## Dæmi
 
