@@ -104,7 +104,9 @@ Kennslubækur:
 
 ## Hugtakalisti
 
-[Listi yfir flest þau hugtök sem koma fyrir í námsefninu má nálgast hér](concepts.md).
+[Samansafn af hugtökum, atriðum og öðru sem kemur fyrir í námskeiðinu á einum stað með vísunum á ítarefni](./hugtok.md).
+
+Ef _þér_ finnst eitthvað vanta, búðu til [issue](https://github.com/vefforritun/vef1-2020/issues) eða [pull request](https://github.com/vefforritun/vef1-2020/pulls) hér. Eða láttu Óla vita á Slack eða með tölvupósti.
 
 ## Fyrirlestrar
 
@@ -120,6 +122,10 @@ Kennslubækur:
   - Skalanleg vefhönnun, kvikun, hönnun og CSS í stærri verkefnum
 * [Fyrirlestur 6, 5. október 2020](fyrirlestrar/06/)
   - Git, node.js, npm & tól: browser-sync, sass, stylelint
+* [Fyrirlestur 7, 12. október 2020](fyrirlestrar/07/)
+  - JavaScript gildi, týpur og virkjar, forrit, föll. Array og objects
+* [Fyrirlestur 8, 19. október 2020](fyrirlestrar/08/)
+  - Villur og regex, einingar, ósamstillt forritun
 
 ## Verkefni
 
@@ -140,7 +146,9 @@ Kennslubækur:
   * [Yfirferð á sýnilausn](https://www.youtube.com/watch?v=MVk68mcEoFU)
 * [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2020-v6), sett fyrir 6. október, skilist 13. október
   * [Kynning í fyrirlestri](https://youtu.be/ZMVY0pdDCG4)
-* Verkefni 7 (JS #1), sett fyrir 19. október, skilist 27. október
+  * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v6-synilausn)
+* [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2020-v7), sett fyrir 19. október, skilist 27. október
+  * [Kynning í fyrirlestri](https://youtu.be/)
 * Verkefni 8 (JS #2), sett fyrir 26. október, skilist 3. nóvember
 * Verkefni 9 (JS #3), sett fyrir 2. nóvember, skilist 10. nóvember
 * Verkefni 10 (JS #4), sett fyrir 9. nóvember, skilist 17. nóvember
