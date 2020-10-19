@@ -1,12 +1,12 @@
 # Fyrirlestur 8, 19. október 2020
 
-[Fyrirlestur 8.1: Villur og regex](08.1.errors.regex.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.1: Villur og regex](08.1.errors.regex.md), [vídeó](https://youtu.be/vl_G2uDAORI)
 
-[Fyrirlestur 8.2: Einingar](08.2.modules.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.2: Einingar](08.2.modules.md), [vídeó](https://youtu.be/djyI61lMvXc)
 
-[Fyrirlestur 8.3: Ósamstillt forritun](08.3.async.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.3: Ósamstillt forritun](08.3.async.md), [vídeó](https://youtu.be/KdjdGqYaMYA)
 
-[Fyrirlestur 8.4: Dæmi](08.4.daemi.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.4: Dæmi](08.4.daemi.md), [Sýnidæmi](daemi/synidaemi/), [vídeó](https://youtu.be/Gd7nTJzrYZI)
 
 ## Dæmi
 

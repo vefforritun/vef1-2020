@@ -148,7 +148,7 @@ Ef _þér_ finnst eitthvað vanta, búðu til [issue](https://github.com/vefforr
   * [Kynning í fyrirlestri](https://youtu.be/ZMVY0pdDCG4)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v6-synilausn)
 * [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2020-v7), sett fyrir 19. október, skilist 27. október
-  * [Kynning í fyrirlestri](https://youtu.be/)
+  * [Kynning í fyrirlestri](https://youtu.be/tJfUBc6pH_s)
 * Verkefni 8 (JS #2), sett fyrir 26. október, skilist 3. nóvember
 * Verkefni 9 (JS #3), sett fyrir 2. nóvember, skilist 10. nóvember
 * Verkefni 10 (JS #4), sett fyrir 9. nóvember, skilist 17. nóvember
