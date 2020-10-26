@@ -14,3 +14,7 @@
   - Git, node.js, npm & tól: browser-sync, sass, stylelint
 * [Fyrirlestur 7, 12. október 2020](07/)
   - JavaScript gildi, týpur og virkjar, forrit, föll. Array og objects
+* [Fyrirlestur 8, 19. október 2020](08/)
+  - Villur og regex, einingar, ósamstillt forritun
+* [Fyrirlestur 9, 26. október 2020](09/)
+  - DOM & vafrinn, atburðir, eslint
