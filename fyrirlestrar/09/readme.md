@@ -1,12 +1,12 @@
 # Fyrirlestur 9, 26. október 2020
 
-[Fyrirlestur 9.1: DOM & vafrinn](9.1.browser-dom.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 9.1: DOM & vafrinn](9.1.browser-dom.md), [vídeó](https://youtu.be/fJQZCVY_5H8)
 
-[Fyrirlestur 9.2: Atburðir](9.2.events.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 9.2: Atburðir](9.2.events.md), [vídeó](https://youtu.be/qaoWoeYwsL4)
 
-[Fyrirlestur 9.3: eslint](9.3.eslint.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 9.3: eslint](9.3.eslint.md), [vídeó](https://youtu.be/-OpQ1DHAe6M)
 
-[Fyrirlestur 9.4: Sýnidæmi](daemi/synidaemi), [vídeó](https://youtu.be/)
+[Fyrirlestur 9.4: Sýnidæmi](daemi/synidaemi), [vídeó](https://youtu.be/QTl0A1d_ONc)
 
 ## Dæmi
 
