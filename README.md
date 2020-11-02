@@ -26,7 +26,6 @@ Sjá Uglu/Canvas.
 |  12  | 9. nóvember   | Hlutir, fallaforritun, HTML5 og JS, tæki og tól                   | JS #4                 | JS #3                |
 |  13  | 16. nóvember  | Samantekt og upprifjun, upplýsingar um lokapróf                   |                       | JS #4, Hópverkefni 2 |
 
-
 ## Lesefni
 
 Kennslubækur:
@@ -151,16 +150,19 @@ Ef _þér_ finnst eitthvað vanta, búðu til [issue](https://github.com/vefforr
   * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v6-synilausn)
 * [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2020-v7), sett fyrir 19. október, skilist 27. október
   * [Kynning í fyrirlestri](https://youtu.be/tJfUBc6pH_s)
+  * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v7-synilausn)
 * [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2020-v8), sett fyrir 26. október, skilist 3. nóvember
   * [Kynning í fyrirlestri](https://youtu.be/5gGaoymzMT0)
-* Verkefni 9 (JS #3), sett fyrir 2. nóvember, skilist 10. nóvember
-* Verkefni 10 (JS #4), sett fyrir 9. nóvember, skilist 17. nóvember
+* [Verkefni 9 (JS #3)](https://github.com/vefforritun/vef1-2020-v9), sett fyrir 2. nóvember, skilist 10. nóvember
+  * [Kynning í fyrirlestri](https://youtu.be/jePjAzfDM6k)
+* Verkefni 10 fellt niður
 
 ## Hópverkefni
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef1-2020-h1), sett fyrir 5. október, skilist 30. október
   * [Kynning í fyrirlestri](https://youtu.be/xx_f98Dgx34)
-* Hópverkefni 2, sett fyrir 2. nóvember, skilist 27. nóvember
+* [Hópverkefni 2](https://github.com/vefforritun/vef1-2020-h2), sett fyrir 2. nóvember, skilist 27. nóvember
+  * [Kynning í fyrirlestri](https://youtu.be/5wiOwZG8vpc)
 
 ## Lokapróf
 

@@ -17,6 +17,11 @@ module.exports = {
     // leyfa i++ í for
     'no-plusplus': ['error', { 'allowForLoopAfterthoughts': true }],
 
-    'function-paren-newline': ["error", "consistent"]
+    'function-paren-newline': ["error", "consistent"],
+
+    // viljum frekar named export
+    'import/prefer-default-export': 0,
+
+    'no-continue': 0,
   }
 };
