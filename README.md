@@ -161,7 +161,7 @@ Ef _þér_ finnst eitthvað vanta, búðu til [issue](https://github.com/vefforr
   * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v7-synilausn)
 * [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2020-v8), sett fyrir 26. október, skilist 3. nóvember
   * [Kynning í fyrirlestri](https://youtu.be/5gGaoymzMT0)
-* [Verkefni 9 (JS #3)](https://github.com/vefforritun/vef1-2020-v9), sett fyrir 2. nóvember, skilist 10. nóvember
+* [Verkefni 9 (JS #3)](https://github.com/vefforritun/vef1-2020-v9), sett fyrir 2. nóvember, skilist 13. nóvember
   * [Kynning í fyrirlestri](https://youtu.be/jePjAzfDM6k)
 * Verkefni 10 fellt niður
 
