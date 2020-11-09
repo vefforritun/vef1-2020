@@ -1,5 +1,7 @@
 # Vef1 2018 — Verkefni 9
 
+Verkefni útfært að hluta í fyrirlestri 10. [Full-byggð sýnilausn frá 2018](https://github.com/vefforritun/vef1-2018-v9-synilausn).
+
 Útfæra skal leit og birtingu á lénum gegnum `apis.is`. `http://apis.is/isnic?domain=hi.is` leitar t.d. að upplýsingum um `hi.is` og skilar til baka hlut, t.d.:
 
 ```text

@@ -127,6 +127,14 @@ Ef _þér_ finnst eitthvað vanta, búðu til [issue](https://github.com/vefforr
   - Villur og regex, einingar, ósamstillt forritun
 * [Fyrirlestur 9, 26. október 2020](fyrirlestrar/09/)
   - DOM & vafrinn, atburðir, eslint
+* [Fyrirlestur 10, 2. nóvember 2020](fyrirlestrar/10/)
+  - HTTP, Ajax, tæki og tól
+* [Fyrirlestur 11, 9. nóvember 2020](fyrirlestrar/11/)
+  - Fallaforritun, hlutir
+* [Fyrirlestur 12, 16. nóvember 2020](fyrirlestrar/12/)
+  - HTML5 og JavaScript, stoðtími
+* [Fyrirlestur 13, 23. nóvember 2020](fyrirlestrar/13/)
+  - Upprifjun & lokapróf, stoðtími
 
 ## Verkefni
 
