@@ -9,10 +9,15 @@ module.exports = {
   },
   plugins: [
     babel({
-      exclude: 'node_modules/**',
       sourceMaps: true,
       presets: [
-        ['@babel/preset-env', { targets: '> 0.25%, not dead' }],
+        [
+          '@babel/preset-env', {
+            useBuiltIns: 'usage',
+            corejs: 2,
+            targets: '> 0.25%, not dead',
+          },
+        ],
       ],
     }),
   ],

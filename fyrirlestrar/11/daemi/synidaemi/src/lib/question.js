@@ -15,7 +15,8 @@ function randomNumber(min, max) {
 * Útbýr spurningu og skilar sem hlut:
 * { problem: strengur með spurningu, answer: svar við spurningu sem tala }
 */
-export default function question() {
+// eslint-disable-next-line import/prefer-default-export
+export function createQuestion() {
   const operator = operators[randomNumber(0, operators.length - 1)];
 
   let a = null;
