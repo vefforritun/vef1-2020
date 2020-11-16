@@ -1,7 +1,7 @@
 import initGame from './lib/game';
 import Highscore from './lib/highscore';
 
-const PLAY_TIME = 10;
+const PLAY_TIME = 2;
 
 document.addEventListener('DOMContentLoaded', () => {
   initGame(PLAY_TIME);

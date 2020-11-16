@@ -1,7 +1,8 @@
 // todo vísa í rétta hluti með import
 
-import { score } from './highscore';
+import Highscore, { score } from './highscore';
 import { createQuestion } from './question';
+import { save } from './storage';
 
 // allar breytur hér eru aðeins sýnilegar innan þessa módúl
 
@@ -114,7 +115,18 @@ function onSubmit(e) {
 function onSubmitScore(e) {
   e.preventDefault();
 
-  // todo útfæra
+  const input = e.target.querySelector('input');
+  const name = input.value;
+
+  const points = score(total, correct, playTime);
+
+  save(name, points);
+
+  const highscore = new Highscore();
+  highscore.load();
+
+  total = 0;
+  correct = 0;
 
   result.classList.add('result--hidden');
   problem.classList.add('problem--hidden');
@@ -137,4 +149,7 @@ export default function init(_playTime) {
 
   const scoreForm = document.querySelector('.problem__answer');
   scoreForm.addEventListener('submit', onSubmit);
+
+  const resultForm = document.querySelector('.result__form');
+  resultForm.addEventListener('submit', onSubmitScore);
 }

@@ -1,5 +1,8 @@
 // todo vísa í rétta hluti með import
 
+import { el, empty } from './helpers';
+import { clear, load } from './storage';
+
 /**
  * Reikna út stig fyrir svör út frá heildarfjölda svarað á tíma.
  * Ekki þarf að gera ráð fyrir hversu lengi seinasta spurning var sýnd. Þ.e.a.s.
@@ -34,14 +37,22 @@ export default class Highscore {
    * Hlaða stigatöflu inn
    */
   load() {
-    // todo útfæra
+    const scores = load();
+    this.highscore(scores);
   }
 
   /**
    * Hreinsa allar færslur úr stigatöflu, tengt við takka .highscore__button
    */
   clear() {
-    // todo útfæra
+    clear();
+    empty(this.scores);
+    const noScores = document.createElement('p');
+    noScores.textContent = 'Engin stig skráð';
+
+    this.scores.appendChild(noScores);
+
+    this.button.classList.add('highscore__button--hidden');
   }
 
   /**
@@ -50,6 +61,25 @@ export default class Highscore {
    * @param {array} data Fylki af færslum í stigatöflu
    */
   highscore(data) {
-    // todo útfæra
+    if (data.length === 0) {
+      return;
+    }
+
+    empty(this.scores);
+
+    const ol = el('ol');
+
+    data.forEach(({ name, points }) => {
+      const numberEl = el('span', `${points} stig`);
+      numberEl.classList.add('highscore__number');
+
+      const nameEl = el('span', name);
+      nameEl.classList.add('highscore__name');
+
+      ol.appendChild(el('li', numberEl, nameEl));
+    });
+
+    this.button.classList.remove('highscore__button--hidden');
+    this.scores.appendChild(ol);
   }
 }

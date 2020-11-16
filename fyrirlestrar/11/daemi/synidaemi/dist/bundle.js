@@ -23,7 +23,98 @@
     return Constructor;
   }
 
-  // todo vísa í rétta hluti með import
+  /**
+   * Hreinsa börn úr elementi
+   *
+   * @param {object} element Element sem á að hreinsa börn úr
+   */
+  function empty(element) {
+    while (element.firstChild) {
+      element.removeChild(element.firstChild);
+    }
+  }
+  /**
+   * Búa til element og aukalega setja börn ef send með
+   *
+   * @param {string} name Nafn á element
+   * @param  {...any} children Börn fyrir element
+   */
+
+  function el(name) {
+    var element = document.createElement(name);
+
+    for (var _len = arguments.length, children = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+      children[_key - 1] = arguments[_key];
+    }
+
+    if (Array.isArray(children)) {
+      children.forEach(function (child) {
+        if (typeof child === 'string') {
+          element.appendChild(document.createTextNode(child));
+        } else if (child) {
+          element.appendChild(child);
+        }
+      });
+    }
+
+    return element;
+  }
+
+  /**
+   * Sækir og vistar í localStorage
+   */
+  // Fast sem skilgreinir heiti á lykli sem vistað er undir í localStorage
+  var LOCALSTORAGE_KEY = 'calc_game_scores';
+  /**
+   * Hreinsa öll stig úr localStorage
+   */
+
+  function clear() {
+    localStorage.removeItem(LOCALSTORAGE_KEY);
+  }
+  /**
+   * Sækir gögn úr localStorage. Skilað sem röðuðum lista á forminu:
+   * { points: <stig>, name: <nafn> }
+   *
+   * @returns {array} Raðað fylki af svörum eða tóma fylkið ef ekkert vistað.
+   */
+
+  function load() {
+    var scoresAsJson = localStorage.getItem(LOCALSTORAGE_KEY);
+    var result = null;
+
+    try {
+      result = JSON.parse(scoresAsJson);
+    } catch (e) {
+      // eslint-disable-next-line no-console
+      console.error('Villa í JSON', e);
+      clear();
+      return [];
+    }
+
+    if (!Array.isArray(result)) {
+      return [];
+    }
+
+    return result.sort(function (a, b) {
+      return b.points - a.points;
+    });
+  }
+  /**
+   * Vista stig
+   *
+   * @param {string} name Nafn þess sem á að vista
+   * @param {number} points Stig sem á að vista
+   */
+
+  function save(name, points) {
+    var saved = load();
+    saved.push({
+      name: name,
+      points: points
+    });
+    localStorage.setItem(LOCALSTORAGE_KEY, JSON.stringify(saved));
+  }
 
   /**
    * Reikna út stig fyrir svör út frá heildarfjölda svarað á tíma.
@@ -36,6 +127,7 @@
    *
    * @returns {number} Stig fyrir svör
    */
+
   function score(total, correct, time) {
     var t = correct / total;
     return Math.round((Math.pow(t, 2) + correct) * total / time) * 100;
@@ -59,7 +151,10 @@
 
     _createClass(Highscore, [{
       key: "load",
-      value: function load() {// todo útfæra
+      value: function load$1() {
+        var scores = load();
+
+        this.highscore(scores);
       }
       /**
        * Hreinsa allar færslur úr stigatöflu, tengt við takka .highscore__button
@@ -67,7 +162,14 @@
 
     }, {
       key: "clear",
-      value: function clear() {// todo útfæra
+      value: function clear$1() {
+        clear();
+
+        empty(this.scores);
+        var noScores = document.createElement('p');
+        noScores.textContent = 'Engin stig skráð';
+        this.scores.appendChild(noScores);
+        this.button.classList.add('highscore__button--hidden');
       }
       /**
        * Hlaða inn stigatöflu fyrir gefin gögn.
@@ -77,7 +179,24 @@
 
     }, {
       key: "highscore",
-      value: function highscore(data) {// todo útfæra
+      value: function highscore(data) {
+        if (data.length === 0) {
+          return;
+        }
+
+        empty(this.scores);
+        var ol = el('ol');
+        data.forEach(function (_ref) {
+          var name = _ref.name,
+              points = _ref.points;
+          var numberEl = el('span', "".concat(points, " stig"));
+          numberEl.classList.add('highscore__number');
+          var nameEl = el('span', name);
+          nameEl.classList.add('highscore__name');
+          ol.appendChild(el('li', numberEl, nameEl));
+        });
+        this.button.classList.remove('highscore__button--hidden');
+        this.scores.appendChild(ol);
       }
     }]);
 
@@ -240,6 +359,27 @@
     showQuestion();
   }
   /**
+   * Event handler fyrir þegar stig eru skráð eftir leik.
+   *
+   * @param {*} e Event þegar stig eru skráð
+   */
+
+
+  function onSubmitScore(e) {
+    e.preventDefault();
+    var input = e.target.querySelector('input');
+    var name = input.value;
+    var points = score(total, correct, playTime);
+    save(name, points);
+    var highscore = new Highscore();
+    highscore.load();
+    total = 0;
+    correct = 0;
+    result.classList.add('result--hidden');
+    problem.classList.add('problem--hidden');
+    startButton.classList.remove('button--hidden');
+  }
+  /**
    * Finnur öll element DOM og setur upp event handlers.
    *
    * @param {number} _playTime Fjöldi sekúnda sem hver leikur er
@@ -254,9 +394,11 @@
     startButton.addEventListener('click', start);
     var scoreForm = document.querySelector('.problem__answer');
     scoreForm.addEventListener('submit', onSubmit);
+    var resultForm = document.querySelector('.result__form');
+    resultForm.addEventListener('submit', onSubmitScore);
   }
 
-  var PLAY_TIME = 10;
+  var PLAY_TIME = 2;
   document.addEventListener('DOMContentLoaded', function () {
     init(PLAY_TIME);
     var highscore = new Highscore();
