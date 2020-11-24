@@ -1,20 +1,22 @@
-import babel from '@rollup/plugin-babel';
-import resolve from '@rollup/plugin-node-resolve';
-import commonjs from '@rollup/plugin-commonjs';
-import { terser } from 'rollup-plugin-terser';
+import { babel } from '@rollup/plugin-babel';
+//import { eslint } from 'rollup-plugin-eslint';
+//import { nodeResolve } from '@rollup/plugin-node-resolve';
+//import { terser } from 'rollup-plugin-terser';
+//import commonjs from '@rollup/plugin-commonjs';
 
-module.exports = {
-  input: './src/index.js',
+const config = {
+  input: 'src/index.js',
   output: {
-    file: './dist/bundle.js',
-    format: 'iife',
-    sourcemap: true,
+    file: 'dist/bundle.js',
+    format: 'iife'
   },
   plugins: [
+   // nodeResolve({ preferBuiltins: false }),
+   // commonjs(),
+    //eslint(),
     babel({
       babelHelpers: 'bundled',
       exclude: 'node_modules/**',
-      sourceMaps: true,
       presets: [
         [
           '@babel/preset-env', {
@@ -25,8 +27,8 @@ module.exports = {
         ],
       ],
     }),
-    resolve(),
-    commonjs(),
-    terser(),
-  ],
+    //terser()
+  ]
 };
+
+export default config;
