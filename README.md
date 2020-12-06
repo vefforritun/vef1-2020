@@ -159,10 +159,13 @@ Ef _þér_ finnst eitthvað vanta, búðu til [issue](https://github.com/vefforr
 * [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2020-v7), sett fyrir 19. október, skilist 27. október
   * [Kynning í fyrirlestri](https://youtu.be/tJfUBc6pH_s)
   * [Sýnilausn](https://github.com/vefforritun/vef1-2020-v7-synilausn)
+  * [Yfirferð á sýnilausn](https://www.youtube.com/watch?v=dOo3d6TSMXg)
 * [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2020-v8), sett fyrir 26. október, skilist 3. nóvember
   * [Kynning í fyrirlestri](https://youtu.be/5gGaoymzMT0)
+  * [Yfirferð á sýnilausn](https://www.youtube.com/watch?v=_26CN6jqv6c)
 * [Verkefni 9 (JS #3)](https://github.com/vefforritun/vef1-2020-v9), sett fyrir 2. nóvember, skilist 13. nóvember
   * [Kynning í fyrirlestri](https://youtu.be/jePjAzfDM6k)
+  * [Yfirferð á sýnilausn](https://www.youtube.com/watch?v=xveg-OEbVf8)
 * Verkefni 10 fellt niður
 
 ## Hópverkefni
